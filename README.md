@@ -90,9 +90,10 @@ Evaluate predictions using appropriate metrics, such as accuracy, precision, rec
 
 Repository Structure
 
-Project Notebook
+ Project Notebook
 
-View Titanic Survival Prediction Notebook
+"View Titanic Survival Prediction Notebook" (
+                https://github.com/sifatshariar50/Titanic-Survival-Prediction/blob/main/titanic-machine-learning-from-disaster.ipynb
 
 Key Skills Demonstrated
 
