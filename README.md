@@ -90,7 +90,8 @@ Evaluate predictions using appropriate metrics, such as accuracy, precision, rec
 
 Repository Structure
 
-titanic-survival-prediction/ ├── titanic-machine-learning-from-disaster.ipynb └── README.md 
+
+View Titanic Survival Prediction Notebook
 
 Key Skills Demonstrated
 
