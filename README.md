@@ -90,6 +90,7 @@ Evaluate predictions using appropriate metrics, such as accuracy, precision, rec
 
 Repository Structure
 
+Project Notebook
 
 View Titanic Survival Prediction Notebook
 
