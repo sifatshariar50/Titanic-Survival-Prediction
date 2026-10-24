@@ -92,7 +92,7 @@ Repository Structure
 
 Project Notebook
 
-View Titanic-Survival-Prediction-Notebook
+View Titanic-Survival-Prediction
 
 Key Skills Demonstrated
 
